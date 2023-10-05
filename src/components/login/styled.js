@@ -79,8 +79,8 @@ export const LoginStyled = styled.div`
       
 }
 
-#title{
-  padding-bottom: 100px;
+.title{
+  padding-bottom: 10px;
 }
 
 `
